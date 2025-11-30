@@ -23,7 +23,7 @@ This project implements a Convolutional Neural Network (CNN) using **TensorFlow*
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/ahmedwisam1/Image-classification-with-Neural-Networks.git](https://github.com/ahmedwisam1/Image-classification-with-Neural-Networks.git)
-    cd YOUR_REPO_NAME
+    cd Image-classification-with-Neural-Networks
     ```
 
 2.  **Install dependencies:**
